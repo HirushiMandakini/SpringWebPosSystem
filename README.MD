@@ -51,13 +51,14 @@ This application follows a well-organized, layered architecture:
 
 1. *Clone the repository*:
    ```bash
-   git clone 
+   git clone https://github.com/HirushiMandakini/SpringWebPosSystem.git
+cd Spring-Web-POS
 
 ## [API Documentation](https://documenter.getpostman.com/view/35385607/2sAXxS8Wmc)
 
 ## License
 
-### [MIT]() License
+### [MIT](https://github.com/HirushiMandakini/SpringWebPosSystem/blob/master/License.txt) License
 
 ## Copyright
 
